@@ -209,7 +209,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn openpyxl
 - **Google Colab** - Development environment
 
 ---
-
 ## 📄 License
 
 This project is for educational purposes as part of the MI6228 Analytics Live module.
